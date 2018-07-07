@@ -1,0 +1,2 @@
+aiohttp==3.2.0
+aiohttp-ultrajson==0.1.0
